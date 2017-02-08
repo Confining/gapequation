@@ -2,7 +2,7 @@
 
  There is gap equation in 2 dimensional QCD meson model, and it reads
 
-$p \cos\big(\theta(p)\big) - m \sin\big(\theta(p)\big) = \frac{\lambda}{2} \int \frac{dk}{(p-k)^2} \sin\big(\theta(p)-\theta(k) \big)$
+![equation](http://latex.codecogs.com/gif.latex?p%20%5Ccos%20%5B%5Ctheta%28p%29%5D%20-%20m%20%5Csin%5B%5Ctheta%28p%29%5D%20%3D%20%5Cfrac%7B%5Clambda%7D%7B2%7D%5Cint%20%5Cfrac%7Bdk%7D%7B%28p-k%29%5E2%7D%20%5Csin%5B%5Ctheta%28p%29-%5Ctheta%28k%29%5D)
 
 where $p$ is the momentum of quark, $m$ is the quark mass, and $\lambda$ is a unit parameter, which is usually chosen to be $\frac{1}{2}$.
 
