@@ -9,3 +9,5 @@ where $p$ is the momentum of quark, $m$ is the quark mass, and $\lambda$ is a un
  Li^1^ solved this equation by using a lattice method, and I wrote this mathematica file by employing the method as well.
 
 `1. Ming Li, Lawrence Wilets and Michael C Birse, J.Phys.G:Nucl.Phys.13(1987)915-923. `
+
+>Thank Xiaonu Xiong for refining the 4th cell of the notebook
